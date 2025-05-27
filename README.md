@@ -6,7 +6,7 @@ Air pollution has become a pressing concern globally due to its adverse impact o
 
 ## 📂 Project Structure
 
-├── dataset/                   # Dataset files
+├──dataset/    # Dataset files
 ├── notebooks/              # Jupyter Notebooks for data exploration and modeling               
 ├── submission files/                # Evaluation metrics and model outputs
 ├── README.md               # Project documentation
