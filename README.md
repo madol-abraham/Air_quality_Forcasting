@@ -1,5 +1,4 @@
 # Air Quality Forecasting
-![Project Banner](https://yourdomain.com/path-to-banner-image.png)
 
 # project overview
 Air pollution has become a pressing concern globally due to its adverse impact on human health, climate change and the environment. In Beijing, the effects of high PM2.5 levels are deep, affecting millions of residents. This task aims to predict the PM2.5 concentrations using a Time series forecasting technique based on the historical  air quality data provided for this project. I chose to use the Long Short-Term Memory (LSTM) algorithm. I decided to navigate a learning path on how deep learning can assist in forecasting air pollution levels and see better ways to contribute to public health strategies and policies that drive informed decisions.
